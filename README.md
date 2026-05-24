@@ -4,6 +4,8 @@
 
 ![DataLens Dashboard](public/ss-dashboard.png)
 
+![DataLens Dashboard](public/ss-dashboard.png)
+
 ![DataLens](https://img.shields.io/badge/DataLens-AI%20Data%20Analysis-5E6AD2?style=for-the-badge&logo=barchart)
 ![MiMo](https://img.shields.io/badge/Powered%20by-Xiaomi%20MiMo%20V2.5-orange?style=for-the-badge)
 ![Agents](https://img.shields.io/badge/Agents-6%20Active-22C55E?style=for-the-badge)
