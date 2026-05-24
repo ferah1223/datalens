@@ -1,8 +1,10 @@
 # DataLens
 
-Upload a CSV and instantly get data analysis — column profiling, anomaly detection, correlation analysis, trend spotting, and visual reports. No manual analysis needed.
+> **Powered by Xiaomi MiMo V2.5** — Data Analysis Platform
 
-![Dashboard](https://opengraph.githubassets.com/1/ferah1223/datalens)
+Upload a CSV and instantly get data analysis — column profiling, anomaly detection, correlation analysis, trend spotting, and visual reports.
+
+![Dashboard](public/ss-dashboard.png)
 
 ## Features
 
@@ -25,13 +27,13 @@ Upload a CSV and instantly get data analysis — column profiling, anomaly detec
 - **Daily Line Chart** — 30-day granular revenue + visitors
 - **Anomaly Panel** — Detected anomalies with severity badges
 
-## Pages
+## Screenshots
 
-| Page | Description |
-|------|-------------|
-| Dashboard | KPIs, charts, and anomaly detection |
-| Upload | Drag-and-drop CSV upload with column profiler |
-| Insights | Analysis findings with confidence scores |
+![Dashboard](public/ss-dashboard.png)
+
+![Upload](public/ss-upload.png)
+
+![Insights](public/ss-insights.png)
 
 ## Tech Stack
 
@@ -54,4 +56,4 @@ Open [http://localhost:3000](http://localhost:3000) to start analyzing.
 
 ---
 
-Built for Xiaomi MiMo 100T Challenge
+**Powered by Xiaomi MiMo V2.5**
